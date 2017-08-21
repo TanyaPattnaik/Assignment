@@ -5,6 +5,6 @@ int main() {
 	cout << "Enter length and breadth of rectangle" << "\n";
 	cin >> l >> b;
 	peri=2*(l+b);
-	cout << "The area is " << peri;
+	cout << "The perimeter is " << peri;
 	return 0;
 }
