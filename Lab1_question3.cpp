@@ -2,7 +2,7 @@
 using namespace std;
 int main() {
 	double a,b,sum,diff,product,quotient;
-	cout << "Enter two numbers";
+	cout << "Enter two numbers" << "\n";
 	cin >> a >> b;
 	sum=a+b;
 	diff=a-b;
